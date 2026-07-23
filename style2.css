@@ -22,9 +22,6 @@ body{
     min-height:100vh;
 
 }
-
-/* Poster */
-
 .poster{
 
     width:850px;
@@ -38,8 +35,6 @@ body{
     box-shadow:0 10px 30px rgba(0,0,0,.4);
 
 }
-
-/* Top */
 
 .top{
 
@@ -130,9 +125,6 @@ body{
     margin-bottom:10px;
 
 }
-
-/* Story */
-
 .story{
 
     margin-bottom:30px;
@@ -154,9 +146,6 @@ body{
     line-height:28px;
 
 }
-
-/* Cast */
-
 .cast h2{
 
     color:#d62828;
@@ -172,8 +161,6 @@ body{
     line-height:30px;
 
 }
-
-/* Buttons */
 
 .buttons{
 
